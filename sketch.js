@@ -270,3 +270,7 @@ var index = 0;
      }
                  
 /*For this coding, I have used 5 different type of filters, 3 different type of form(2 ellipse and one square),and 10 different pixel's sizes. In fact, the changes of pixel's shape is not as same as what I expect, just one ellipse rather than ellipse pixels. I try to change the different radius but didn't work....I have no idea about that.*/
+
+
+
+
